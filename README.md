@@ -12,7 +12,7 @@ ALTERA CYCLONE IV CoreEP4CE6
 ## What's On Board:
 
 **EP4CE6E22C8N:** the ALTERA Cyclone IV FPGA device which features:
-        * Operating Frequency: 50MHz
+* Operating Frequency: 50MHz
         * Operating Voltage: 1.15V～3.465V
         ◦ Package: QFP144
         ◦ I/Os: 80
