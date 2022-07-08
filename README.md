@@ -13,13 +13,13 @@ ALTERA CYCLONE IV CoreEP4CE6
 
 **EP4CE6E22C8N:** the ALTERA Cyclone IV FPGA device which features:
 * Operating Frequency: 50MHz
-        * Operating Voltage: 1.15V～3.465V
-        ◦ Package: QFP144
-        ◦ I/Os: 80
-        ◦ LEs: 6K
-        ◦ RAM: 270kb
-        ◦ PLLs: 2
-        ◦ Debugging/Programming: supports JTAG
+* Operating Voltage: 1.15V～3.465V
+* Package: QFP144
+* I/Os: 80
+* LEs: 6K
+* RAM: 270kb
+* PLLs: 2
+* Debugging/Programming: supports JTAG
 
     2. AMS1117-3.3, 3.3V voltage regulator
     3. AMS1117-2.5, 2.5V voltage regulator
