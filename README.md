@@ -1,4 +1,4 @@
-# ALTERA-CYCLONE
+# ALTERA-CYCLONE PROJECT BOARD
 ALTERA CYCLONE IV CoreEP4CE6 
 ## Specification:
 ### CoreEP4CE6 is an FPGA core board that features an EP4CE6E22C8N device onboard, supports further expansion.
